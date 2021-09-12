@@ -9,11 +9,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_02异常捕获", "..\_02�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_05结构", "..\_05结构\_05结构.csproj", "{23A16C4D-17F1-46CC-B167-EAB431CB9776}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_06out参数", "..\_out参数\_06out参数.csproj", "{2C93E303-1311-4539-AB28-78195BA2E29D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_06out参数", "..\_out参数\_06out参数.csproj", "{2C93E303-1311-4539-AB28-78195BA2E29D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_07ref参数", "..\_07ref参数\_07ref参数.csproj", "{4A7A4942-708F-4B90-B7EF-52B7E812AF04}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_07ref参数", "..\_07ref参数\_07ref参数.csproj", "{4A7A4942-708F-4B90-B7EF-52B7E812AF04}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_08params参数", "..\_08params参数\_08params参数.csproj", "{F6742473-E501-4074-8F5C-524B22E58F0C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "_08params参数", "..\_08params参数\_08params参数.csproj", "{F6742473-E501-4074-8F5C-524B22E58F0C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "_09类", "..\_09类\_09类.csproj", "{B0987D43-2AC2-4EF1-9DC1-13ADF57DBB71}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -45,6 +47,10 @@ Global
 		{F6742473-E501-4074-8F5C-524B22E58F0C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F6742473-E501-4074-8F5C-524B22E58F0C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F6742473-E501-4074-8F5C-524B22E58F0C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0987D43-2AC2-4EF1-9DC1-13ADF57DBB71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0987D43-2AC2-4EF1-9DC1-13ADF57DBB71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0987D43-2AC2-4EF1-9DC1-13ADF57DBB71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0987D43-2AC2-4EF1-9DC1-13ADF57DBB71}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

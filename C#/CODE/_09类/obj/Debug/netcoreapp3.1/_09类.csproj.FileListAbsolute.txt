@@ -1,0 +1,14 @@
+D:\github_git\Note\C#\CODE\_09类\bin\Debug\netcoreapp3.1\_09类.exe
+D:\github_git\Note\C#\CODE\_09类\bin\Debug\netcoreapp3.1\_09类.deps.json
+D:\github_git\Note\C#\CODE\_09类\bin\Debug\netcoreapp3.1\_09类.runtimeconfig.json
+D:\github_git\Note\C#\CODE\_09类\bin\Debug\netcoreapp3.1\_09类.runtimeconfig.dev.json
+D:\github_git\Note\C#\CODE\_09类\bin\Debug\netcoreapp3.1\_09类.dll
+D:\github_git\Note\C#\CODE\_09类\bin\Debug\netcoreapp3.1\_09类.pdb
+D:\github_git\Note\C#\CODE\_09类\obj\Debug\netcoreapp3.1\_09类.csproj.AssemblyReference.cache
+D:\github_git\Note\C#\CODE\_09类\obj\Debug\netcoreapp3.1\_09类.GeneratedMSBuildEditorConfig.editorconfig
+D:\github_git\Note\C#\CODE\_09类\obj\Debug\netcoreapp3.1\_09类.AssemblyInfoInputs.cache
+D:\github_git\Note\C#\CODE\_09类\obj\Debug\netcoreapp3.1\_09类.AssemblyInfo.cs
+D:\github_git\Note\C#\CODE\_09类\obj\Debug\netcoreapp3.1\_09类.csproj.CoreCompileInputs.cache
+D:\github_git\Note\C#\CODE\_09类\obj\Debug\netcoreapp3.1\_09类.dll
+D:\github_git\Note\C#\CODE\_09类\obj\Debug\netcoreapp3.1\_09类.pdb
+D:\github_git\Note\C#\CODE\_09类\obj\Debug\netcoreapp3.1\_09类.genruntimeconfig.cache
